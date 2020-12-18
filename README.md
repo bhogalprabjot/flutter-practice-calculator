@@ -9,3 +9,7 @@ This is a project to just revise the basics:
 
 
 ![alt text](https://github.com/bhogalprabjot/flutter-practice-calculator/blob/main/ss1.png?raw=true)
+
+
+
+![alt text](https://github.com/bhogalprabjot/flutter-practice-calculator/blob/main/ss2.png?raw=true)
